@@ -9,3 +9,13 @@ I:\GitHub\SchoolManagementSystem\DataService\bin\Debug\Domain.pdb
 I:\GitHub\SchoolManagementSystem\DataService\obj\Debug\DataService.pdb
 I:\GitHub\SchoolManagementSystem\DataService\bin\Debug\DataService.exe
 I:\GitHub\SchoolManagementSystem\DataService\obj\Debug\DataService.exe
+F:\Github\SchoolManagementSystem\DataService\bin\Debug\hibernate.cfg.xml
+F:\Github\SchoolManagementSystem\DataService\bin\Debug\DataService.exe
+F:\Github\SchoolManagementSystem\DataService\bin\Debug\DataService.pdb
+F:\Github\SchoolManagementSystem\DataService\bin\Debug\Domain.dll
+F:\Github\SchoolManagementSystem\DataService\bin\Debug\Iesi.Collections.dll
+F:\Github\SchoolManagementSystem\DataService\bin\Debug\NHibernate.dll
+F:\Github\SchoolManagementSystem\DataService\bin\Debug\Domain.pdb
+F:\Github\SchoolManagementSystem\DataService\obj\Debug\ResolveAssemblyReference.cache
+F:\Github\SchoolManagementSystem\DataService\obj\Debug\DataService.exe
+F:\Github\SchoolManagementSystem\DataService\obj\Debug\DataService.pdb

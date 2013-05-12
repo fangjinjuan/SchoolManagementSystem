@@ -12,3 +12,16 @@ I:\GitHub\SchoolManagementSystem\website\bin\hibernate.cfg.xml
 I:\GitHub\SchoolManagementSystem\website\bin\Newtonsoft.Json.dll
 I:\GitHub\SchoolManagementSystem\website\bin\LitJSON.dll
 I:\GitHub\SchoolManagementSystem\website\bin\DataService.exe
+F:\Github\SchoolManagementSystem\website\bin\hibernate.cfg.xml
+F:\Github\SchoolManagementSystem\website\bin\WebSite.dll
+F:\Github\SchoolManagementSystem\website\bin\WebSite.pdb
+F:\Github\SchoolManagementSystem\website\bin\DataService.exe
+F:\Github\SchoolManagementSystem\website\bin\Domain.dll
+F:\Github\SchoolManagementSystem\website\bin\Iesi.Collections.dll
+F:\Github\SchoolManagementSystem\website\bin\Newtonsoft.Json.dll
+F:\Github\SchoolManagementSystem\website\bin\NHibernate.dll
+F:\Github\SchoolManagementSystem\website\bin\Domain.pdb
+F:\Github\SchoolManagementSystem\website\bin\DataService.pdb
+F:\Github\SchoolManagementSystem\website\obj\Debug\ResolveAssemblyReference.cache
+F:\Github\SchoolManagementSystem\website\obj\Debug\WebSite.dll
+F:\Github\SchoolManagementSystem\website\obj\Debug\WebSite.pdb
